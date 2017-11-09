@@ -1088,6 +1088,7 @@ public class IjkVideoView extends FrameLayout implements MediaController.MediaPl
     // Extend: Background
     //-------------------------
 
+    
     private boolean mEnableBackgroundPlay = false;
 
     private void initBackground() {
